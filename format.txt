@@ -1,0 +1,18 @@
+(pid)__[pname]__[flags]
+
+green index:
+ѕохожесть
+g ~ N: всего пабликов в базе
+g ~ M: всего пабликов у пользовател€
+g \ n: пересечение
+g(5, 10)
+g(20, 40) < g(10, 30)
+g = 10 * n / M / sqrt(log5(M))
+
+flags:
+m   == mainstream
+st  == stupid
+sm  == smart
+out == out of statistics(элита всех сортов)
+sp  == special(grime.ru, yandex) 
+
